@@ -1,0 +1,102 @@
+<table border=1>
+	<thead>
+		<tr>
+			<th>
+				<!DOCTYPE html>
+				<html lang="en-US">
+					<head>
+						<title>Just a moment...</title>
+						<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+							<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+								<meta name="robots" content="noindex
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<a title"Bến Tre" href="/xo-so-mien-nam/xo-so-ben-tre/xsbt.html">
+									</td>
+								</tr>
+								<tr>
+									<td>   BẾN TRE</td>
+								</tr>
+								<tr>
+									<td>
+									</80>
+								</td>
+							</tr>
+							<tr>
+								<td>
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td></td>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>
+								<a title"Vũng Tàu" href="/xo-so-mien-nam/xo-so-vung-tau/xsvt.html">
+								</td>
+							</tr>
+							<tr>
+								<td>                    VŨNG TÀU</td>
+							</tr>
+							<tr>
+								<td>
+								</31>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							</a>
+						</td>
+					</tr>
+					<tr>
+						<td></td>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>
+							<a title"Bạc Liêu" href="/xo-so-mien-nam/xo-so-bac-lieu/xsbl.html">
+							</td>
+						</tr>
+						<tr>
+							<td>                            BẠC LIÊU</td>
+						</tr>
+						<tr>
+							<td>
+							</a>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<80>
+							</td>
+						</tr>
+						<tr>
+							<td></td>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<td>
+								<td></td>
+							</tr>
+							<tr>
+								<td></td>
+							</tr>
+							<tr>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
